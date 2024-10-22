@@ -2,7 +2,7 @@ import axios from "axios";
 
 class Api {
     constructor() {
-        this.baseUrl = "https://online-learning-app.onrender.com";
+        this.baseUrl = "https://e-learningplatform.onrender.com";
         // this.baseUrl = "http://localhost:5656";
     }
 
